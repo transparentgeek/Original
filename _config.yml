@@ -1,3 +1,4 @@
 name: Jay's Blog
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+theme: leap-day
